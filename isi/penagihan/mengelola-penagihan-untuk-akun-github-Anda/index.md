@@ -1,3 +1,4 @@
+Cc++
 ---
 title: Managing billing for your GitHub account
 shortTitle: Your GitHub account
